@@ -1,0 +1,25 @@
+body {
+    background-color: silver;  
+}
+
+h1   {
+    color: black; 
+    font-size: 1000%;
+    text-align: center;
+}
+
+p    {
+    color: lightpink;
+    font-size: 600%;
+    text-align: center;
+}
+a:link, a:visited {
+    color:pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active, a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
